@@ -1,14 +1,13 @@
 import { ProjectItem, ServiceItem, TestimonialItem, SkillItem } from '../types.ts';
 
 export const ASSETS = {
-  avatar: '/src/assets/images/boy_avatar_pngtree_style_1793210687463.jpg',
-  avatarCreative: '/src/assets/images/abdulmoeed_3d_avatar_1793210160845.jpg',
-  luxuryPackaging: '/src/assets/images/luxury_packaging_mockup_1793210176043.jpg',
-  editorialPoster: '/src/assets/images/editorial_poster_mockup_1793210176395.jpg',
-  brandIdentity: '/src/assets/images/brand_identity_system_1793210177080.jpg',
-  beveragePackaging: '/src/assets/images/beverage_packaging_mockup_1793210177608.jpg',
+  avatar: '/images/boy_avatar_pngtree_style_1793210687463.jpg',
+  avatarCreative: '/images/abdulmoeed_3d_avatar_1793210160845.jpg',
+  luxuryPackaging: '/images/luxury_packaging_mockup_1793210176043.jpg',
+  editorialPoster: '/images/editorial_poster_mockup_1793210176395.jpg',
+  brandIdentity: '/images/brand_identity_system_1793210177080.jpg',
+  beveragePackaging: '/images/beverage_packaging_mockup_1793210177608.jpg',
 };
-
 export const PROJECTS: ProjectItem[] = [
   {
     id: 'aethel-skincare',
